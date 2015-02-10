@@ -1,0 +1,22 @@
+"*":
+  editor:
+    invisibles: {}
+  core:
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+    disabledPackages: [
+      "tabs"
+      "tree-view"
+    ]
+  "exception-reporting":
+    userId: "fe2c6239-106b-6b00-fe84-9227bcc7afb7"
+  welcome:
+    showOnStartup: false
+  tabs:
+    showIcons: true
+  "tree-view":
+    hideVcsIgnoredFiles: false
+    hideIgnoredNames: false
+    showOnRightSide: false
